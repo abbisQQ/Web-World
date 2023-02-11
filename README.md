@@ -12,3 +12,6 @@ This can help individuals to understand the techniques and methods used by attac
 This virtual machine is suitable for individuals who are interested in learning about web application security, as well as experienced penetration testers who want to sharpen their skills and test their knowledge. 
 
 With a realistic representation of common vulnerabilities, Web World provides a safe and controlled environment for learning and experimentation.
+
+You can download it from the link below:
+https://drive.google.com/file/d/1XAGTzO-iLR5ysp2xFzRm4sTzy1aFe_X1/view?usp=sharing
