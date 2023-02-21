@@ -15,7 +15,7 @@ With a realistic representation of common vulnerabilities, Web World provides a 
 
 You can download it using the links below:
 
-https://mega.nz/file/gJE0XIyZ#isXGprskZbLP4KnLNuNHcbI279s6FnLcsj8Vydm_sio
+https://mega.nz/file/IBtQzKIB#_UuIuD63URI5Xl8hTewdpjznZybmTUbLHgCyIk050-o
 
 https://www.dropbox.com/s/0az3vi99w51pdph/Web%20World.zip?dl=0
 
