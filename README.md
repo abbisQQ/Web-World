@@ -13,7 +13,9 @@ This virtual machine is suitable for individuals who are interested in learning 
 
 With a realistic representation of common vulnerabilities, Web World provides a safe and controlled environment for learning and experimentation.
 
-You can download it from the link below:
+You can download it using the links below:
+https://mega.nz/file/gJE0XIyZ#isXGprskZbLP4KnLNuNHcbI279s6FnLcsj8Vydm_sio
+https://www.dropbox.com/s/0az3vi99w51pdph/Web%20World.zip?dl=0
 https://drive.google.com/file/d/1XAGTzO-iLR5ysp2xFzRm4sTzy1aFe_X1/view?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/21143253/218271314-cc57fa38-64c0-486e-bcfa-047fa562d18d.png)
