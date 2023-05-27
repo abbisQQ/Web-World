@@ -23,3 +23,5 @@ https://drive.google.com/file/d/1XAGTzO-iLR5ysp2xFzRm4sTzy1aFe_X1/view?usp=shari
 
 ![image](https://user-images.githubusercontent.com/21143253/218271314-cc57fa38-64c0-486e-bcfa-047fa562d18d.png)
 
+foothold solution:
+https://www.youtube.com/watch?v=raZVOFuk1MM
